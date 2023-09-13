@@ -4,7 +4,7 @@ Hi 👋 My name is Carlos Ferreira
 Educator and Back-End Developer
 -------------------------------
 
-Back-End | PHP | Laravel | Docker | JavaScript | Vuejs | TypeScript | NodeJS | Cloud Jr. (AWS, GCP, Digital Ocean) | MySQL | MongoDB | DevOps (Terraform, Ansible)
+Back-End | PHP | Laravel | Docker | JavaScript | Vuejs | TypeScript | NodeJS | Cloud Jr. (AWS, GCP, Digital Ocean) | MySQL | MongoDB | DevOps (Terraform, Ansible, Serverless)
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [carlos@especializati.com.br](mailto:carlos@especializati.com.br)
